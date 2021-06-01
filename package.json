@@ -1,9 +1,29 @@
 {
     "name": "forest-witch",
     "displayName": "Forest Witch",
-    "description": "Forest Witch",
+    "description": "An earth-toned nature forest vibe for you witches!",
     "version": "0.0.1",
     "publisher": "casseopeian",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/carnaluna/forest-witch-theme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "casseopeian",
+        "casseopeian dark",
+        "nature",
+        "nature-witch",
+        "nature witch",
+        "forest",
+        "forest witch",
+        "forest-witch",
+        "earth",
+        "earthy",
+        "earth-toned",
+        "earth-tones"
+    ],
     "engines": {
         "vscode": "^1.56.0"
     },
