@@ -2,7 +2,7 @@
 
 .・。.・゜ ✭・.・✫・゜・。.
 
-₍˶ˆ꒳ˆ˶₎✼✿✼✿ Witchy Earth-Toned Theme! ✼✿✼✿₍˶ˆ꒳ˆ˶₎
+₍˶ˆ꒳ˆ˶₎✼✿✼✿ Witchy Earth-Toned Theme for VS Code! ✼✿✼✿₍˶ˆ꒳ˆ˶₎
 
 .・。.・゜ ✭・.・✫・゜・。.
 
