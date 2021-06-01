@@ -1,0 +1,22 @@
+{
+    "name": "forest-witch",
+    "displayName": "Forest Witch",
+    "description": "Forest Witch",
+    "version": "0.0.1",
+    "publisher": "casseopeian",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Forest Witch",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Forest Witch-color-theme.json"
+            }
+        ]
+    }
+}
